@@ -29,8 +29,7 @@ The Weather App is a Python-based application that retrieves and displays real-t
 
 
 
-
-
+## Example of output
 
 <img width="229" height="314" alt="image" src="https://github.com/user-attachments/assets/31b4800a-fb34-4766-b7e7-14901dad8a92" />
 
