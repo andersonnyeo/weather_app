@@ -26,3 +26,6 @@ The Weather App is a Python-based application that retrieves and displays real-t
    To install `requests`, run the following command:
    ```bash
    pip install requests
+
+
+   <img width="229" height="314" alt="image" src="https://github.com/user-attachments/assets/90a68ea8-17aa-44fa-8e41-9bbede924ebb" />
